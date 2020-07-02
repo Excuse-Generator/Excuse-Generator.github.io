@@ -4,7 +4,9 @@
 .p {
    font-family: open sans;
 }
-  
+ .h1 {
+    font-family: open sans;
+}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #070760;
