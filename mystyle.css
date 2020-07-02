@@ -1,10 +1,10 @@
 .body {
   font-family: open sans;
 }
-.p {
+.body p {
    font-family: open sans;
 }
- .h1 {
+ .body h1 {
     font-family: open sans;
 }
 /* Add a black background color to the top navigation */
