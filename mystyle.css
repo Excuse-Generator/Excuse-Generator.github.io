@@ -51,6 +51,7 @@ body {
 .topnav img {
     float: left;
     padding: 4.5px;
+    width:auto
 }
 .footer {
   position: fixed;
