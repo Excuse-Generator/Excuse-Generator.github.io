@@ -127,7 +127,7 @@ body {
     padding: 0;
   }
 }
-body.img {
+.body img {
   width: 100%;
   height: auto;
 }
