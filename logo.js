@@ -28,8 +28,8 @@
     });
     _assign(outerMarquee.style, {
       position: "fixed",
-      width: "100%",
-      height: "100%",
+      width: auto,
+      height: auto,
       top: 0,
       left: 0,
       zIndex: 999999,
@@ -43,7 +43,7 @@
       scrollAmount: _choice(SCROLL_AMOUNTS),
       scrollDelay: _choice(SCROLL_DELAYS)
     });
-    _assign(innerMarquee.style, { width: "10%" });
+    _assign(innerMarquee.style, { width: "100%" });
     outerMarquee.appendChild(innerMarquee);
 
     var img = document.createElement("img");
