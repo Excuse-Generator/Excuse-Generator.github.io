@@ -1,5 +1,5 @@
 marquee img {
-    width: 25%;
+    width: 25%!important;
 }
 body {
     font-family: open sans;
