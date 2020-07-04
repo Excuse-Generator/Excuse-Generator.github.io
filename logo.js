@@ -28,8 +28,8 @@
     });
     _assign(outerMarquee.style, {
       position: "fixed",
-      width: "auto",
-      height: "auto",
+      width: 10,
+      height: 10,
       top: 0,
       left: 0,
       zIndex: 999999,
