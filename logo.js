@@ -43,7 +43,7 @@
       scrollAmount: _choice(SCROLL_AMOUNTS),
       scrollDelay: _choice(SCROLL_DELAYS)
     });
-    _assign(innerMarquee.style, { width: "100%" });
+    _assign(innerMarquee.style, { width: "10%" });
     outerMarquee.appendChild(innerMarquee);
 
     var img = document.createElement("img");
