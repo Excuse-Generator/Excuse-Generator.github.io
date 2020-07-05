@@ -112,7 +112,8 @@ body {
     width: 100%;
     text-align: left;
   }
-}.topnav img {
+}
+.topnav img {
     float: left;
     padding: 4.5px;
     width:auto
